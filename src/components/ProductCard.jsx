@@ -3,13 +3,13 @@ import React from "react";
 
 const ProductCard = () => {
   return (
-    <div className="w-full  flex flex-col gap-1 p-4  border">
+    <div className="w-full  flex flex-col gap-1 p-4  border shadow bg-white">
       <Image
         src="/assets/project2.png"
         width={500}
         height={500}
         alt="Picture of the author"
-        className="w-auto h-auto"
+        className="w-auto h-auto border "
       />
 
       <div className="text-sm font-bold">Clothes Ecommerce website</div>
