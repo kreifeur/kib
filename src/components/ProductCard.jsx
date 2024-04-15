@@ -12,7 +12,7 @@ const ProductCard = () => {
         className="w-auto h-auto"
       />
 
-      <div className="text-sm font-bold">Clothes E-commerce website</div>
+      <div className="text-sm font-bold">Clothes Ecommerce website</div>
       <p className="text-gray-500 text-xs">
         A modern ecommerce website for clothes with admin panel to add products
       </p>
